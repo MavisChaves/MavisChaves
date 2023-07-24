@@ -1,6 +1,15 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#4B0082&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Maria+Vitória+Chaves;I'm+21+years+old;I'm+from+Brazil;I+am+a+front+end+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Maria+Vitória+Chaves;I'm+21+years+old;I+am+a+front+end+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+<div>
+  Quem sou eu?
+🌟 Uma garota apaixonada por tecnologia, música e dança 
+🎓 Formando em Análise e Desenvolvimento de Sistemas
+📌 Meu foco principal: Fullstack
+💬 Pergunte-me sobre qualquer coisa, adoro conversar e ajudar pessoas
+⚡ Tecnologias em andamento: React, Java e Python
+</div>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MavisChaves&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Mavis Chaves github stats" /> 
@@ -26,4 +35,4 @@
 ![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-![Skanke animation](https://github.com/MavisChaves/MavisChaves/blob//output/github-contribution-grid-snake.svg)
+ <img src="https://github.com/srtonn/srtonn/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake eating commits">
