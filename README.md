@@ -2,12 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Maria+Vitória+Chaves;I'm+21+years+old;I+am+a+front+end+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div>
-  Quem sou eu?
-🌟 Uma garota apaixonada por tecnologia, música e dança 
-🎓 Formando em Análise e Desenvolvimento de Sistemas
-📌 Meu foco principal: Fullstack
-💬 Pergunte-me sobre qualquer coisa, adoro conversar e ajudar pessoas
+<div align="center">
+  Quem sou eu? <br>
+🌟 Uma garota apaixonada por tecnologia, música e dança <br>
+🎓 Formando em Análise e Desenvolvimento de Sistemas <br>
+📌 Meu foco principal: Fullstack <br>
+💬 Pergunte-me sobre qualquer coisa, adoro conversar e ajudar pessoas <br>
 ⚡ Tecnologias em andamento: React, Java e Python
 </div>
 
